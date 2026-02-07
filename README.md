@@ -1,7 +1,7 @@
-# Podcast: Descobrindo IAs Generativas em 5 Minutos 🎙️
+# Podcast: Descobrindo IAs Generativas em 15 Minutos 🎙️
 
 ## 📒 Descrição
-Este podcast de 5 minutos oferece um passeio rápido, mas profundo, pelo mundo das IAs Generativas e sua influência na tecnologia moderna.
+Este podcast de 15 minutos oferece um passeio rápido, mas profundo, pelo mundo das IAs Generativas e sua influência na tecnologia moderna.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[NoteBook LM](https://notebooklm.google.com/notebook/)** para gerar o podcast;
